@@ -22,7 +22,7 @@ This is a mini-website to collect and display real-time price data for stocks or
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/repo.git
+   git clone https://github.com/parag98/realtimestockdata.git
    cd repo
 2. Open split terminals for running frontend and backend
 3. To run backend: cd backend >> npm install >> npm run start
