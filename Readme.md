@@ -25,5 +25,13 @@ This is a mini-website to collect and display real-time price data for stocks or
    git clone https://github.com/parag98/realtimestockdata.git
    cd repo
 2. Open split terminals for running frontend and backend
-3. To run backend: cd backend >> npm install >> npm run start
-4. To run frontend: cd frontend >> npm install >> npm start
+3. To run backend
+   ```bash
+    cd backend
+    npm install
+    npm run start
+4. To run frontend
+   ```bash
+   cd frontend
+   npm install
+   npm start
